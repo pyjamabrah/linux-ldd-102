@@ -1,5 +1,5 @@
 CROSS_C := aarch64-linux-gnu-
-KERNEL_BUILD := ./rpi4-linux-kernel/
+KERNEL_BUILD := ../rpi4-linux-kernel/
 obj-m += lab_01.o
 
 all:
