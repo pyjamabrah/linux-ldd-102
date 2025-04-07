@@ -4,3 +4,9 @@
 *.o
 !sd-card/**
 *.lst
+*.cmd
+*.symvers
+*.ko
+*.order
+*.mod
+*.mod.c
