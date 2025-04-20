@@ -1,4 +1,4 @@
-# arm64-baremetal-course
+# Linux LDD 102 Track
 A repo to setup a working environment for experimentation and lab exercises
 
 ```
